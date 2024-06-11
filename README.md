@@ -1,1 +1,1 @@
-# Asic-Landing-Page-Project
+# Basic Landing-Page-Project
